@@ -1,0 +1,61 @@
+
+
+
+.Background{
+
+
+   -fx-background-color: #f0f3f9;
+}
+.anybutton{
+
+   -fx-border-style : solid ;
+   -fx-font-family: "Arial";
+   -fx-font-size: 16px;
+}
+.equalltbutton{
+   -fx-background-color: white;
+   -fx-border-color: black;
+   -fx-text-fill: #000000;
+}
+.equalltbutton:hover{
+   -fx-background-color: #29a19b;
+}
+.operator{
+   -fx-background-color: #f7f9fc;
+   -fx-border-color: black;
+   -fx-text-fill: black; /* Text color remains white */
+
+
+}
+.operator:hover {
+   -fx-background-color: #51b5c3; /* Complementary color on hover */
+   -fx-text-fill: black; /* Text color remains white */
+}
+.NumberButton{
+
+   -fx-background-color:  #ffffff;
+   -fx-border-color: black;
+   -fx-text-fill: black;
+}
+
+.NumberButton:hover{
+
+   -fx-background-color: #8cb0f3; /* Complementary color on hover */
+  /* -fx-background-color: #29a19b; /* Complementary color on hover */
+
+   -fx-text-fill: black; /* Text color remains white */
+   -fx-border-color: black;
+
+
+
+}
+.showLabel{
+
+   -fx-background-color:  white;
+   -fx-border-color: balck;
+   -fx-border-style: solid;
+   -fx-text-fill: black;
+
+
+
+}
