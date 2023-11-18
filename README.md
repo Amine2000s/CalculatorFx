@@ -15,3 +15,6 @@ and to Calculatore using keyboard keys
 - [ ] add the save feature
 
 ## ShowCasing 
+
+![](ThemesShowcasing.gif)
+![](Calculation.gif)
