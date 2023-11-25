@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: com.example.javafxcalculator.HelloApplication
+Class-Path: javafx-graphics-19.0.2-win.jar junit-jupiter-engine-5.9.2.ja
+ r javafx-controls-19.0.2.jar junit-platform-commons-1.9.2.jar opentest4
+ j-1.2.0.jar javafx-base-19.0.2-win.jar junit-jupiter-api-5.9.2.jar java
+ fx-graphics-19.0.2.jar junit-platform-engine-1.9.2.jar javafx-controls-
+ 19.0.2-win.jar javafx-base-19.0.2.jar javafx-fxml-19.0.2-win.jar
+

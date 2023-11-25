@@ -1,0 +1,68 @@
+
+
+
+.Background{
+
+
+   -fx-background-color: #1c2028;
+}
+.NumberButton{
+
+   -fx-border-style : solid ;
+   -fx-font-family: "Arial";
+   -fx-font-size: 20px;
+}
+.equalltbutton{
+   -fx-border-style : solid ;
+   -fx-font-family: "Arial";
+   -fx-font-size: 20px;
+
+   -fx-background-color: #4cc2ff;
+   -fx-border-color: white;
+   -fx-text-fill: white;
+}
+.equalltbutton:hover{
+   -fx-background-color: #29a19b;
+}
+.operator{
+   -fx-border-style : solid ;
+   -fx-font-family: "Arial";
+   -fx-font-size: 20px;
+   -fx-background-color: #2d333d;
+   -fx-border-color: white;
+
+}
+.operator:hover {
+   -fx-background-color: #51b5c3; /* Complementary color on hover */
+   -fx-text-fill: white; /* Text color remains white */
+}
+.NumberButton{
+
+   -fx-background-color:  #363c47;
+   -fx-border-color: white;
+   -fx-text-fill: white;
+}
+
+.NumberButton:hover{
+
+   -fx-background-color: #1c2028; /* Complementary color on hover */
+//maybe   -fx-background-color: #29a19b; /* Complementary color on hover */
+
+   -fx-text-fill: white; /* Text color remains white */
+   -fx-border-color: white;
+
+
+
+}
+.showLabel{
+   -fx-border-style : solid ;
+   -fx-font-family: "Arial";
+   -fx-font-size: 20px;
+   -fx-background-color:  #1c2028;
+   -fx-border-color: white;
+   -fx-border-style: solid;
+   -fx-text-fill: white;
+
+
+
+}
